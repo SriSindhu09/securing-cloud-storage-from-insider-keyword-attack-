@@ -1,0 +1,8 @@
+Verifiable Searchable Encryption Framework against Insider Keyword Guessing Attack in Cloud Storage
+
+
+
+IEEE Transactions on Cloud Computing,Volume:10,Issue:2,Issue Date:01.April-June.2022
+
+
+
